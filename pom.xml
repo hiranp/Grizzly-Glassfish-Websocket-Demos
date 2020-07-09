@@ -69,6 +69,6 @@
     </dependencyManagement>
 
     <properties>
-        <grizzly.version>1.9.37-SNAPSHOT</grizzly.version>
+        <grizzly.version>1.9.65</grizzly.version>
     </properties>
 </project>
